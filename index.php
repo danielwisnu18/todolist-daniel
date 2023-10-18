@@ -20,7 +20,7 @@ include_once("koneksi.php");
 <body>
 
     <h3>
-        To Do List
+        To Do List Daniel
         <small class="text-muted">
             Catat semua hal yang akan kamu kerjakan disini.
         </small>
